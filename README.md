@@ -13,10 +13,10 @@
 
 ## <h2 align="center"> 💻 Github Statistic</h2>
 
-<p align="left">
+<p align="center">
    <a href="https://github.com/rahmanmue">
-      <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmanmue&layout=compact&langs_count=8&theme=algolia"/>
-      <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmanmue&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmanmue&layout=compact&langs_count=8&theme=algolia"/>
+      <img  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmanmue&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    </a>
 </p>
 
