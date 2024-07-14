@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Me Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rahman-portfolio.netlify.app/)&nbsp;
+ <!-- [![Me Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rahman-portfolio.netlify.app/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Muhammad%20Rahman-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammadrahman-11mo/)&nbsp;
   [![Email Badge](https://img.shields.io/badge/-rahman.muraman%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rahman.muraman@gmail.com)
 
