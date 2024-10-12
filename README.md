@@ -11,22 +11,8 @@
   [![GitHub: rahmanmue](https://img.shields.io/github/followers/rahmanmue?label=follow&style=social)](https://github.com/rahmanmue)&nbsp;
 </div>
 
-
-## <h2 align="center"> 💻 Github Statistic</h2>
-
-<p align="center">
-   <a href="https://github.com/rahmanmue">
-      <img  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmanmue&layout=compact&langs_count=8&theme=algolia"/>
-      <img  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmanmue&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   </a>
-</p>
-
+<!-- 
 <div align="center">
-   <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanmue&hide_border=true&theme=algolia">
-</div>
-
-
-<!-- <div align="center">
   <h2>Tech Stack</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6" alt="CSS3" />
@@ -49,5 +35,23 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032" alt="Git" />
-</div> -->
+</div> 
+ -->
+
+
+
+## <h2 align="center"> 💻 Github Statistic</h2>
+
+<p align="center">
+   <a href="https://github.com/rahmanmue">
+      <img  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmanmue&layout=compact&langs_count=8&theme=algolia"/>
+      <img  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmanmue&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   </a>
+</p>
+
+<div align="center">
+   <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanmue&hide_border=true&theme=algolia">
+</div>
+
+
 
