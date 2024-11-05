@@ -2,11 +2,12 @@
 
 <div align="center">
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-Muhammad%20Rahman-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammadrahman-11mo/)&nbsp;
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://rahman-portfolio.netlify.app/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Muhammad%20Rahman-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammadrahman-11mo/)
+  
   [![Email Badge](https://img.shields.io/badge/-rahman.muraman%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rahman.muraman@gmail.com)
-<!-- 
   [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frahmanmue&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/rahmanmue/)
-  -->
+  
   
   ![Visitors](https://komarev.com/ghpvc/?username=rahmanmue&style=flat&label=visitors)&nbsp;
   [![GitHub: rahmanmue](https://img.shields.io/github/followers/rahmanmue?label=follow&style=social)](https://github.com/rahmanmue)&nbsp;
